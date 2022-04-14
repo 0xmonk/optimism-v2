@@ -28,6 +28,7 @@ import umaprotocolLogo from '../../images/ecosystem/umaprotocol.webp'
 import unidexLogo from '../../images/ecosystem/unidex.webp'
 import witnetLogo from '../../images/ecosystem/witnet.svg'
 import zenchaLogo from '../../images/ecosystem/zencha.webp'
+import bodhLogo from '../../images/ecosystem/bodhfinance.svg'
 
 /**
  * thematical order of type.
@@ -119,7 +120,7 @@ export const projectList = [
     "twitter": "https://twitter.com/UniDexFinance",
     "discord": "https://discord.com/invite/WzJPSjGj4h",
     "type": "defi",
-    "image": unidexLogo, 
+    "image": unidexLogo,
     "description": "The meta-aggregator of everything in DeFi. Charts, perpetuals, swaps, limit-orders, data, and more everyday."
   },
   {
@@ -334,7 +335,17 @@ export const projectList = [
     "type": "nft",
     "image": shibuiDAOLogo,
     "description": ""
-  }
+  },
+  {
+    "title": "Bodh Finance",
+    "canLaunch": true,
+    "link": "https://app.bodh.finance/",
+    "twitter": "https://twitter.com/BodhFinance",
+    "discord": "https://discord.gg/za9KXX5m6E",
+    "type": "defi",
+    "image": BodhLogo,
+    "description": "The leading Lending protocol on Boba Network."
+  },
 ]
 
 
