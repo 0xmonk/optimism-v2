@@ -339,11 +339,11 @@ export const projectList = [
   {
     "title": "Bodh Finance",
     "canLaunch": true,
-    "link": "https://app.bodh.finance/",
+    "link": "https://bodh.finance/",
     "twitter": "https://twitter.com/BodhFinance",
     "discord": "https://discord.gg/za9KXX5m6E",
     "type": "defi",
-    "image": BodhLogo,
+    "image": bodhLogo,
     "description": "The leading Lending protocol on Boba Network."
   },
 ]
